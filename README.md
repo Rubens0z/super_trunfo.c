@@ -1,5 +1,5 @@
 super trunfo
-
+nível aventureiro
 #include <stdio.h>
 
 int main() {
